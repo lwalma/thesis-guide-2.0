@@ -1,14 +1,24 @@
 # Introduction
 
-Welcome to the Information Literacy Master Thesis Guide. This guide was created to be used as a reference for all the information literacy steps involved during your master thesis process.
+Welcome to the Information Literacy Master Thesis Guide. This guide is being co-developed by lecturers and the Library Education Support Team. 
 
+It supports master students and thesis supervisors during the master thesis process by:
+- Recapping basic information literacy skills students have learned during their bachelor (for example in the TU Delft Information Literacy 1 and Information Literacy 2 courses)
+- Providing information, examples, quizzes and templates specific for master-level information literacy skills (i.e. advanced searching & source evaluation, synthesizing, exploring academic literature, publishing)
+
+The level of detail you need to study the different chapters depends on how much you as a student remember about information literacy from your bachelor program. 
 
 This is a pilot version still under development. 
 
 ## Structure of the Guide
 
+This resource is divided into 5 chapters. Each chapter represents an information skill you need during the process of your master thesis. The guide is not meant to be read front to back in one go. Instead, you can consult the different chapters depending on which phase of the project you are in and your information need.
 
-This resource is divided into 5 chapters. Each chapter represents a phase in your master thesis where you need to use information. The guide is not meant to be read front to back in one go. Instead, you can consult the different chapters depending on which phase of the project you are in. You can see a detailed overview of the steps below:
+This guide is not meant to be read in its entirety. Instead, use the chapters that are relevant for you depending on which phase you are in your thesis journey. The different information skills are relevant in different phases. Sometimes you go through the different steps in their entirety, but during some phases you only need parts of these steps. The image below explains a bit more how this works:
+
+![information-search-question](1b-information-search-question.png)
+
+You can see a detailed overview of the information steps below:
 
 ![overview of thesis process](overview-lit-review.png)
 
